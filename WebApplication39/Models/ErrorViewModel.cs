@@ -1,6 +1,6 @@
 using System;
 
-namespace WebApplication39.Models
+namespace MarsProject.Models
 {
     public class ErrorViewModel
     {

@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using WebApplication39.Models;
+using MarsProject.Models;
 
-namespace WebApplication39.Controllers
+namespace MarsProject.Controllers
 {
     public class HomeController : Controller
     {
